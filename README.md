@@ -1,5 +1,4 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)]
-<h1 align="center">Hi ??, I'm Achal Neet</h1>
+<h1 align="center">Hi👋, I'm Achal Neet</h1>
 <h3 align="center">A passionate Data Science Enthusiast with a strong academic foundation in computer applications and programming. I hold a Bachelor of Electronic and Telecommunication from Lonere University, where I developed a solid understanding of computational techniques, business applications, and data analysis. ????</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/kqFk9">
 

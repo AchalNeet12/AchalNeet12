@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Achal Neet</h1>
 E&TC '24 at Dr.Babasaheb Ambedkar Technological University, lonere
-
+---
 Passionate Data Science enthusiast with a robust academic background in computer applications and programming. I hold a Bachelor's degree in Electronics and Telecommunications from Lonere University, where I honed my skills in computational techniques, business applications, and data analysis.
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/kqFk9">
 

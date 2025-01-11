@@ -7,12 +7,13 @@ Passionate Data Science enthusiast with a robust academic background in computer
 
 <p align="left"> <a href="https://twitter.com/achal_neet" target="blank"><img src="https://img.shields.io/twitter/follow/achal_neet?logo=twitter&style=for-the-badge" alt="achal_neet" /></a> </p>
 
-- ?? I’m currently working on [Internship](Placement Project)
+- 🔭 I’m currently working on [Internship](Placement Project)
 
-- ?? I’m currently learning **Python | Artificial Intelligence | Machine Learning | NLP | Data Science and AI**
+- 🌱 I’m currently learning **Python | Artificial Intelligence | Machine Learning | NLP | Data Science and AI**
 
-- ????? All of my projects are available at [[GitHub](https://github.com/AchalNeet12/)]
-- ?? How to reach me **neetachal12@gmail.com**
+- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/AchalNeet12/)]
+  
+- 📫 How to reach me **neetachal12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

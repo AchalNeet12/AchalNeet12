@@ -11,7 +11,7 @@ A passionate Data Science Enthusiast with a strong academic foundation in comput
 
 - 🌱 I’m currently learning **Python | Artificial Intelligence | Machine Learning | NLP | Data Science and AI**
 
-- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/AchalNeet12/)]([GitHub](https://github.com/AchalNeet12/))
+- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/AchalNeet12/)]
 
 - 📫 How to reach me **neetachal12@gmail.com**
 

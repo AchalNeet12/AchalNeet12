@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Achal Neet</h1>
-E&TC '24 at
-A passionate Data Science Enthusiast with a strong academic foundation . I hold a Bachelor of Electronic and Telecommunication from Lonere University,  I developed a solid understanding of computational techniques, business applications, and data analysis. 📊💻</h3>
+[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)]
+<h1 align="center">Hi ??, I'm Achal Neet</h1>
+<h3 align="center">A passionate Data Science Enthusiast with a strong academic foundation in computer applications and programming. I hold a Bachelor of Electronic and Telecommunication from Lonere University, where I developed a solid understanding of computational techniques, business applications, and data analysis. ????</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/kqFk9">
 
 
@@ -8,13 +8,12 @@ A passionate Data Science Enthusiast with a strong academic foundation . I hold 
 
 <p align="left"> <a href="https://twitter.com/achal_neet" target="blank"><img src="https://img.shields.io/twitter/follow/achal_neet?logo=twitter&style=for-the-badge" alt="achal_neet" /></a> </p>
 
-- 🔭 I’m currently working on [Internship](Placement Project)
+- ?? I’m currently working on [Internship](Placement Project)
 
-- 🌱 I’m currently learning **Python | Artificial Intelligence | Machine Learning | NLP | Data Science and AI**
+- ?? I’m currently learning **Python | Artificial Intelligence | Machine Learning | NLP | Data Science and AI**
 
-- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/AchalNeet12/)]
-
-- 📫 How to reach me **neetachal12@gmail.com**
+- ????? All of my projects are available at [[GitHub](https://github.com/AchalNeet12/)]
+- ?? How to reach me **neetachal12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

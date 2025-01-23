@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Achal Neet</h1>
-<h1 align="center"alt="Coding" width="400" >E&TC '24 at Dr.Babasaheb Ambedkar Technological University, lonere</h1>
+<h3 align="center">E&TC '24 at Dr.Babasaheb Ambedkar Technological University, lonere</h3>
 Passionate Data Science and AI enthusiast with a strong academic foundation in Electronics and Telecommunications, holding a B.Tech degree from Lonere University. I have a deep interest in leveraging my expertise in Python, machine learning (ML), and deep learning (DL) to solve real-world problems and drive innovation in technology and data-driven solutions.
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/kqFk9">
 
